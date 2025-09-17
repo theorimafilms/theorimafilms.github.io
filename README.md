@@ -1,10 +1,10 @@
-# Theorima Films
+# Theorima Films Productions
 
 ## ...Well, what is it?
 
-Theorima Films is a Bay Area based video production service, based out of our Berkeley office.
+Theorima Film Productions is a Bay Area based video production service, based out of our Berkeley office.
 
-At Theorima Films, we believe that every story deserves to be told with vision, precision, and heart. Our mission is to create cinematic experiences that stay with audiences long after the credits roll — blending striking visuals, authentic performances, and meaningful narratives.
+At Theorima Film Productions, we believe that every story deserves to be told with vision, precision, and heart. Our mission is to create cinematic experiences that stay with audiences long after the credits roll — blending striking visuals, authentic performances, and meaningful narratives.
 
 ### Who We Are
 
