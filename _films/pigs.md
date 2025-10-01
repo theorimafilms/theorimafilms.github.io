@@ -16,10 +16,6 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs4.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs5.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs6.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs7.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs8.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs9.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs10.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
 </div>
 

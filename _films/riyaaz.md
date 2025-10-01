@@ -18,11 +18,6 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz5.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz6.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz7.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz8.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz9.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz10.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz11.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/riyaaz/riyaaz12.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
 </div>
 
