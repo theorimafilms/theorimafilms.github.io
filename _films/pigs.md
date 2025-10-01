@@ -11,8 +11,6 @@ images:
 
 <div class="bottom-border">
 <swiper-container keyboard="true" navigation="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs0.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs2.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs1.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs3.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/pigs/pigs4.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>

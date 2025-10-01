@@ -11,7 +11,6 @@ images:
 
 <div class="bottom-border">
 <swiper-container keyboard="true" navigation="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/zindagi/zindagi1.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/zindagi/zindagi2.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/zindagi/zindagi3.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/films/zindagi/zindagi4.png" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
